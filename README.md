@@ -1,5 +1,15 @@
+<pre>
+Hi, there👋
+You can call me '秃头'
+</pre>
+<pre>
+👾 Something About Me
 
-# Hi, there 👋
+Languages       Java / JavaScript / Vue
+Tools           VSCode / WebStorm / Linux
+Learning        Rust
+Contact me      <a href="mailto:ttdlyu@163.com">Email</a>
+</pre>
 
 ```text
 📊 Last 1 Days I Spent My Time On
@@ -16,24 +26,17 @@ Totally：2 h 10 m 35 s
 <pre>
 📰 Latest Posts
 
-Sat, Mar 11, 2023 <a href="https://blog.152527.xyz/posts/16" target="_blank">asdasdsfas</a>
-Sat, Mar 11, 2023 <a href="https://blog.152527.xyz/posts/17" target="_blank">test</a>
-Sun, Mar 19, 2023 <a href="https://blog.152527.xyz/posts/24" target="_blank">创建</a>
-Mon, Mar 20, 2023 <a href="https://blog.152527.xyz/posts/25" target="_blank">新的起点</a>
-Mon, Mar 20, 2023 <a href="https://blog.152527.xyz/posts/26" target="_blank">这是标题</a>
+2023-02-07 <a href="https://blog.152527.xyz/posts/16.html" target="_blank">asdasdsfas</a>
+2023-02-07 <a href="https://blog.152527.xyz/posts/17.html" target="_blank">test</a>
+2023-02-01 <a href="https://blog.152527.xyz/posts/24.html" target="_blank">创建</a>
+2023-02-02 <a href="https://blog.152527.xyz/posts/25.html" target="_blank">新的起点</a>
+2023-02-02 <a href="https://blog.152527.xyz/posts/26.html" target="_blank">这是标题</a>
 </pre>
+<pre>
+🙈 My Github Stats
 
-<!--
-**tTdly-Old/ttdly-old** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Total Commits               97
+Total PRs                    1
+Total Issues                 4
+Contributed to               3
+</pre>
